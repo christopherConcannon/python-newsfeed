@@ -3,7 +3,7 @@
 ![MIT license badge](https://img.shields.io/badge/license-MIT-green)
 
 ## Description
-A minimalist social media application inspired by Hacker News that allows a user to post an article from another source and other users vote or comment on the post.  This version is a refactor which replaces an existing Node.js backend with one built using Python with a Flask server managing routes and interactions with a MySQL database
+A minimalist social media application inspired by Hacker News that allows a user to post an article from another source and other users vote or comment on the post.  This version is a refactor which replaces an existing Node.js backend with one built using Python with a Flask server managing routes and interactions with a MySQL database.
 
 ##### Homescreen
 ![Homescreen Screenshot](./assets/images/screenshot.png)
